@@ -1,0 +1,2 @@
+{"Id":1,"FirstName":"Luka","LastName":"Tsagareishvili","PrivateNumber":"01008048787","Password":"1245","Balance":850}{"Id":1,"FirstName":"giorgi","LastName":"Giorgadze","PrivateNumber":"01008048785","Password":"1445","Balance":860}{"Id":1,"FirstName":"giorgi","LastName":"Giorgadze","PrivateNumber":"01008048785","Password":"1445","Balance":860}
+{"Id":1,"FirstName":"giorgi","LastName":"Giorgadze","PrivateNumber":"01008048785","Password":"1445","Balance":860}
